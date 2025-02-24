@@ -1,0 +1,1 @@
+This repository contains a simple Dockerfile that demonstrates a common error: forgetting to copy the application file into the image. The bug is in the `DockerfileBug.dockerfile` file. The solution is provided in `DockerfileSolution.dockerfile`.
